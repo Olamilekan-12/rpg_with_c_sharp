@@ -46,6 +46,8 @@ public class Character
             return MaxHealth;
         }
     }
+    
+    
 
     public void TakeDamage(int amount)
     {
