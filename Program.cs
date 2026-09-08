@@ -12,8 +12,8 @@ class Program
 
         while (hero.IsAlive && enemy.IsAlive)
         {
-            
-            Console.WriteLine($"Choose an action: attack, heal, potion: ");
+            Console.WriteLine($"{hero.CharacterName}: {hero.CurrentHealth}/{hero.MaxHealthValue} HP, {hero.AvailablePotions} {(hero.AvailablePotions > 1 ? "potions" : "potion")} left");
+            Console.WriteLine($"Choose an action: attack, heal, potion: "); 
             string input = Console.ReadLine();
             
             switch (input)

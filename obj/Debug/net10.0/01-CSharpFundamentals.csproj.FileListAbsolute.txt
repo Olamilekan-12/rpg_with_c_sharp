@@ -12,3 +12,4 @@
 /Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.pdb
 /Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.genruntimeconfig.cache
 /Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/ref/01-CSharpFundamentals.dll
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.sourcelink.json
