@@ -30,6 +30,22 @@ public class Character
             return Name;
         }
     }
+    
+    public int CurrentHealth
+    {
+        get
+        {
+            return Health;
+        }
+    }
+
+    public int MaxHealthValue
+    {
+        get
+        {
+            return MaxHealth;
+        }
+    }
 
     public void TakeDamage(int amount)
     {
