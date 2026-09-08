@@ -1,0 +1,14 @@
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/bin/Debug/net10.0/01-CSharpFundamentals
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/bin/Debug/net10.0/01-CSharpFundamentals.deps.json
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/bin/Debug/net10.0/01-CSharpFundamentals.runtimeconfig.json
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/bin/Debug/net10.0/01-CSharpFundamentals.dll
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/bin/Debug/net10.0/01-CSharpFundamentals.pdb
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.AssemblyInfo.cs
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.dll
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/refint/01-CSharpFundamentals.dll
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.pdb
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/01-CSharpFundamentals.genruntimeconfig.cache
+/Users/belloolamilekan/Desktop/CSharpGameDev/01-CSharpFundamentals/01-CSharpFundamentals/obj/Debug/net10.0/ref/01-CSharpFundamentals.dll
