@@ -11,6 +11,15 @@ public class Player : Character
         Level = level;
         Potions = potions;
     }
+
+    public int AvailablePotions
+    {
+        get
+        {
+            return Potions;
+        }
+    }
+    
     public void LevelUp()
     {
         Level = Level + 1;
